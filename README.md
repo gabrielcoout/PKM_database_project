@@ -1,6 +1,6 @@
-# 🏆 Pokémon Data Scraper
+# Pokémon Data Scraper
 
-🚀 **Pokémon Data Scraper** é um projeto de **Web Scraping** que coleta informações detalhadas sobre todos os Pokémon e armazena os dados em um banco de dados relacional **SQLite**. O objetivo é criar um repositório organizado e pesquisável com dados como nomes, tipos, estatísticas e habilidades dos Pokémon.
+**Pokémon Data Scraper** é um projeto de **Web Scraping** que coleta informações detalhadas sobre todos os Pokémon e armazena os dados em um banco de dados relacional **SQLite**. O objetivo é criar um repositório organizado e pesquisável com dados como nomes, tipos, estatísticas e habilidades dos Pokémon.
 
 ---
 
@@ -68,13 +68,3 @@
 - [ ] Criar API para acesso remoto ao banco de dados.
 - [ ] Melhorar o tratamento de erros e logs.
 
----
-
-## 📄 **Licença**
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-## 📬 **Contato**
-📧 Email: [seuemail@example.com](mailto:seuemail@example.com)  
-🐙 GitHub: [seu-usuario](https://github.com/seu-usuario)
