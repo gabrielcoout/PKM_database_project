@@ -1,0 +1,13 @@
+# Web Scraping
+requests
+beautifulsoup4
+selenium
+lxml
+
+# Manipulação de Dados
+pandas
+numpy
+
+# Banco de Dados SQL
+sqlalchemy
+psycopg2-binary  # Para PostgreSQL
